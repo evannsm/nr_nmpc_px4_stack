@@ -10,3 +10,6 @@
 [submodule "nr_enhanced_v2"]
 	path = nr_enhanced_v2
 	url = git@github.com:evannsm/nr_enhanced_v2.git
+[submodule "ROS2Logger"]
+	path = ROS2Logger
+	url = git@github.com:evannsm/ROS2Logger.git
