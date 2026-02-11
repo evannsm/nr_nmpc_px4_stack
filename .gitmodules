@@ -4,18 +4,18 @@
 [submodule "quad_trajectories"]
 	path = quad_trajectories
 	url = git@github.com:evannsm/quad_trajectories.git
-[submodule "nr_standard"]
-	path = nr_standard
+[submodule "newton_raphson_px4"]
+	path = newton_raphson_px4
 	url = git@github.com:evannsm/nr_standard.git
-[submodule "nr_enhanced_v2"]
-	path = nr_enhanced_v2
+[submodule "newton_raphson_enhanced_px4"]
+	path = newton_raphson_enhanced_px4
 	url = git@github.com:evannsm/nr_enhanced_v2.git
 [submodule "ROS2Logger"]
 	path = ROS2Logger
 	url = git@github.com:evannsm/ROS2Logger.git
-[submodule "nmpc_acados_euler_err"]
-	path = nmpc_acados_euler_err
+[submodule "nmpc_acados_px4"]
+	path = nmpc_acados_px4
 	url = git@github.com:evannsm/nmpc_acados_euler_err.git
-[submodule "nr_diff_flat"]
-	path = nr_diff_flat
+[submodule "nr_diff_flat_px4"]
+	path = nr_diff_flat_px4
 	url = git@github.com:evannsm/nr_diff_flat.git
