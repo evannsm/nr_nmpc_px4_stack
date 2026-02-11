@@ -1,4 +1,4 @@
-# Full Stack with NMPC and Newton-Raphson Flow Control Variations for PX4 with modular abstracted quadrotor models and differentiable trajectories via submodules
+# Full Stack with NMPC and Newton-Raphson Flow Control Variations for PX4 with modular abstracted quadrotor models, differentiable trajectories, and easy logging and data analysis.
 
 A ROS 2 monorepo containing multiple quadrotor trajectory tracking controllers, shared libraries, and experiment tooling. Each package is a git submodule and can be used independently or together.
 
